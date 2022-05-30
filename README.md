@@ -1,2 +1,2 @@
 # Dynamic-Pricing
-Thia repository contains materials connected with mab & RL  for dynamic pricing
+This repository contains materials with different approaches in the problem of dynamic pricing 
